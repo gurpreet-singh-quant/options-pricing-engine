@@ -1,5 +1,5 @@
-"build/" 
-"*.obj" 
-"*.exe" 
-"*.a" 
-"*.log" 
+build/ 
+*.obj 
+*.exe 
+*.a 
+*.log 
