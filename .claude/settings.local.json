@@ -1,0 +1,28 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cat)",
+      "Bash(python3 /tmp/fd.py)",
+      "Bash(python3 /tmp/fd2.py)",
+      "Bash(pip install *)",
+      "Bash(python3 /tmp/fd3.py)",
+      "Bash(python3 -)",
+      "Bash(python3 /tmp/det.py)",
+      "Bash(python3 -c ' *)",
+      "Bash(python3 -c \"import mpmath\")",
+      "Bash(python3 /tmp/rho_check.py)",
+      "Bash(cd /tmp)",
+      "Bash(g++ -O2 -ffp-contract=off rho_test.cpp -o rho_off)",
+      "Bash(./rho_off)",
+      "Bash(g++ -O3 -march=native -ffp-contract=fast rho_test.cpp -o rho_fast)",
+      "Bash(./rho_fast)",
+      "Bash(python -c ' *)",
+      "Bash(cd \"/c/Users/Admin/AppData/Local/Temp/claude/c--projects-options-pricing-engine/b379ae50-f8ed-47d1-961a-d6e6870b77c3/tasks\" *)",
+      "Read(//c/Users/Admin/AppData/Local/Temp/claude/c--projects-options-pricing-engine/b379ae50-f8ed-47d1-961a-d6e6870b77c3/tasks/**)",
+      "Read(//c/Users/Admin/.claude/projects/c--projects-options-pricing-engine/b379ae50-f8ed-47d1-961a-d6e6870b77c3/subagents/workflows/wf_87b205a2-d5f/**)",
+      "Bash(grep -ao '{\"severity\":\"[^\"]*\",\"dimension\":\"[^\"]*\",\"file\":\"[^\"]*\",\"line\":\"[^\"]*\",\"title\":\"[^\"]*\"' journal.jsonl)",
+      "Read(//c/Users/Admin/.claude/projects/c--projects-options-pricing-engine/memory//**)",
+      "Read(//c/Users/Admin/.claude/projects/c--projects-options-pricing-engine/memory/**)"
+    ]
+  }
+}

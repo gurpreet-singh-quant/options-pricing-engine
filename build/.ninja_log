@@ -1,0 +1,21 @@
+# ninja log v7
+36	967	8041848326365029	CMakeFiles/pricing.dir/src/numerics.cpp.obj	fbc4539814e5bb2
+48	1650	8041998967446244	CMakeFiles/pricing.dir/src/black_scholes.cpp.obj	4158824c1c0c47ed
+52	3031	8041998967485794	CMakeFiles/pricing.dir/src/binomial_tree.cpp.obj	d9f50f9fb40bd896
+57	3288	8041998967535794	CMakeFiles/pricing.dir/src/option_chain.cpp.obj	398fa89fb0fb5e59
+3288	4918	8041998999853689	libpricing.a	c751bf403c5f3dd6
+1651	6676	8041998983474165	CMakeFiles/unit_tests.dir/tests/test_greeks_finite_diff.cpp.obj	a0f0e45d77e108ac
+74	6646	8041998967693700	CMakeFiles/unit_tests.dir/tests/test_pricing_accuracy.cpp.obj	414a7fcfda49cc1f
+68	6635	8041998967645810	CMakeFiles/unit_tests.dir/tests/test_numerics.cpp.obj	fb2766b4f29f6430
+4918	10137	8041999016144875	CMakeFiles/unit_tests.dir/tests/test_performance.cpp.obj	293ebb37bf5b7719
+3032	9075	8041998997276576	CMakeFiles/unit_tests.dir/tests/test_numerical_stability.cpp.obj	5f188dd16faeb6b3
+62	7008	8041998967585788	CMakeFiles/pricing_demo.dir/src/main.cpp.obj	e7c6c32515820a11
+7008	7512	8041999037042568	pricing_demo.exe	4ee0386674e15376
+20	2207	8041999821681342	CMakeFiles/pricing_benchmarks.dir/benchmarks/benchmark_main.cpp.obj	dbf52a820403d952
+2208	2490	8041999843534606	pricing_benchmarks.exe	9df7cdc5f99513d2
+10137	11607	8041999082798243	unit_tests.exe	6afd01f22a676199
+10137	11607	8041999082798243	unit_tests-b12d07c_tests.cmake	6afd01f22a676199
+10137	11607	8041999082798243	C:/projects/options pricing engine/build/unit_tests-b12d07c_tests.cmake	6afd01f22a676199
+19	425	8042010999797721	build.ninja	b46b6cb074ea3070
+19	425	8042010999657722	C:/projects/options pricing engine/build/cmake_install.cmake	b46b6cb074ea3070
+19	425	8042010999677727	C:/projects/options pricing engine/build/CTestTestfile.cmake	b46b6cb074ea3070
